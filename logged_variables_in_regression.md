@@ -1,7 +1,9 @@
 # Logged variables in regression
 
 **Author:** Alun Hughes
+
 **Version:** 1.0
+
 **Date:** November 2025
 
 ## Introduction
