@@ -1,7 +1,7 @@
 # Logged variables in regression
 
 **Author:** Alun Hughes
-
+**Version:** 1.0
 **Date:** November 2025
 
 ## Introduction
@@ -39,4 +39,4 @@ In practical terms, for the model $y = b \ln(x) + c$,
 *   A **one percent increase in $x$** is associated with a change of approximately **$b/100$ units in $y$**, on average, holding all other variables constant.
 *   Alternatively, you can state that a **one unit increase in $\ln(x)$** is associated with a **$b$ unit change in $y$**.
 
-This unique interpretation makes $b$ a useful measure of how sensitive $y$ is to *relative* changes in $x$, which is often relevant in economic or biomedical contexts (e.g., the relationship between a percentage change in income and the absolute level of consumption or the relationship between a percentage change in NT-proBNP and walking distance).
+This makes $b$ a useful measure of the association between $y$ and *relative* changes in $x$, which is often pertinent in economic or biomedical contexts (e.g., the relationship between a percentage change in income and the absolute level of consumption or the relationship between a percentage change in NT-proBNP and walking distance).
