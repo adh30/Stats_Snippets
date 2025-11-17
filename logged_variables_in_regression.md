@@ -8,13 +8,13 @@
 
 ## Introduction
 
-In the regression relationship $y = b \ln(x) + c$, the coefficient $b$ can be interpreted as a rate of change, e.g. the *unit change in y for a percentage change in x*. This is called the **semi-elasticity** in economics.
+In the regression relationship $y = b \ln(x) + c$, the coefficient $b$ can be interpreted as a rate of change, e.g. the *unit change in ${y}$ for a percentage change in ${x}$*. This is called the **semi-elasticity** in economics.
 
 ## Derivation
 
 The interpretation of $b$ as a rate of change can be derived using calculus:
 
-1.  **Differentiate the function**: To find the instantaneous rate of change of *y* with respect to *x*, take the derivative of the equation with respect to ${x}$:
+1.  **Differentiate the function**: To find the instantaneous rate of change of ${y} with respect to ${x}, take the derivative of the equation with respect to ${x}$:
 
     $\frac{dy}{dx} = \frac{d}{dx}(b \ln(x) + c)$
 
