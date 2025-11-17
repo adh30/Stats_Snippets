@@ -8,7 +8,7 @@
 
 ## Introduction
 
-In the regression relationship $y = b \ln(x) + c$, the coefficient $b$ can be interpreted as a rate of change, e.g. the *unit change in ${y}$ for a percentage change in ${x}$*. This is called the **semi-elasticity** in economics.
+In the regression relationship $y = b \ln(x) + c$, the coefficient $b$ can be interpreted as a rate of change, e.g. the *unit change in* ${y}$ *for a percentage change in* ${x}$. This is called the **semi-elasticity** in economics.
 
 ## Derivation
 
